@@ -3,3 +3,6 @@
 ################################################################################
 
 /track_classfication/Release
+/track_classfication/x64
+/track_classfication/Debug
+/.vs
